@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atal Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img   align="right" alt="coding"  witdh="400"
+<img   align="right" alt="coding"  witdh="300"
 src="https://miro.medium.com/v2/resize:fit:1360/0*gqO3slLmGb4mUeje.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atalm577&label=Profile%20views&color=0e75b6&style=flat" alt="atalm577" /> </p>
